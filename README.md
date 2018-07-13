@@ -1,2 +1,2 @@
 # Data-Science-And-Machine-Learning-Resources
-A complete list of resources for Data Science and Machine Learning.
+ Tutorials, books and other study material for Data Science and Machine Learning. Resources include various topics such as Mathematics, Statistics, Machine Learning Algorithms and Big Data.
